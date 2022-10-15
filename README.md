@@ -19,6 +19,10 @@ In the Arduino code for ESP32 A, enter the MAC Address of ESP32 B, because ESP32
 
 In the Arduino code for ESP32 B, enter the MAC Address of ESP32 A, because ESP32 A is the destination for sending data from ESP32 B.
 
+references:
 
+1. https://www.instagram.com/p/CjvQ89grXWq/
+
+2. https://youtu.be/xOLG-88Ld3A
 
 
