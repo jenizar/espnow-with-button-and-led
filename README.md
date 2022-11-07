@@ -7,7 +7,7 @@ esp32 38 pin, led 5mm, tactile button, cable jumper, breadboard.
 
 ![alt text](https://github.com/jenizar/espnow-with-button-and-led/blob/main/screenshot/image1.jpg)
 ![alt text](https://github.com/jenizar/espnow-with-button-and-led/blob/main/screenshot/image2.jpg)
-![alt text](https://github.com/jenizar/espnow-with-button-and-led/blob/main/screenshot/image3.jpg)
+![alt text](https://github.com/jenizar/espnow-with-button-and-led/blob/main/screenshot/image3.png)
 
 The protocol is similar to the low-power 2.4 GHz wireless connectivity that is often deployed in wireless mouses. So, the pairing between device is needed prior to their
 
